@@ -1,0 +1,23 @@
+button {
+    background: #f9d8ff;
+    color: #3b3b3b;
+    padding: 0.6rem 1rem;
+    font-size: 0.8rem;
+    border: solid 1px #c7c7c7;
+    margin: 1rem 0;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    border-radius: 3px;
+    outline: none;
+  }
+button:hover {
+    background: rgb(255, 255, 255);
+}  
+tr{
+    table-layout: fixed;
+    font-family: Arial;
+}
+td{
+    width: 20%;
+    border: 1px solid black;
+    word-wrap: break-word;
+}

@@ -1,0 +1,20 @@
+table {
+    margin-top: 5px;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr td {
+    text-align: left;
+    width: 30%;
+}
+tbody{
+    top: 5000px;
+    bottom: auto;
+    left: 500px;
+    right: auto;
+    border: 1px solid black;
+}
+thead{
+    border: 1px solid black;
+}
+
